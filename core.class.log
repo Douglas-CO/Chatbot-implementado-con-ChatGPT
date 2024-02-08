@@ -1,0 +1,233 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593963287932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0243255FECA6D6C425D',
+    participant: undefined
+  },
+  messageTimestamp: 1707378336,
+  pushName: 'Ángela',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '593963287932'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3163e4db-d65e-4ddd-807f-3b140ec91edf',
+  keyword: 'key_86332aa9-92ae-4863-a4a5-9b30e01b0427',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e3cd2246a12b4e1dd29e3d8d3ec63189'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a981accb-3b1d-40b5-b82c-9e4f863619b5',
+  keyword: 'ans_3163e4db-d65e-4ddd-807f-3b140ec91edf',
+  answer: '👉 *Menu* para ver el menu del dia\n' +
+    '👉 *Precio* el valor de cada comida\n' +
+    '👉 *Pedido* con la palabra pedido o quiero podras adquirir de nuestro alimentos\n' +
+    '👉 *Local* Lugar en donde nos encontramos\n' +
+    '👉 *Horario* horas de atencion del local\n' +
+    '👉 *Cancelar* en caso desee cancelar el pedido',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '008b3e772d70047e5049e2bf956d6561'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593963287932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB008F3354259F4955F0D',
+    participant: undefined
+  },
+  messageTimestamp: 1707378342,
+  pushName: 'Ángela',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'horario',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'horario',
+  from: '593963287932'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b6ee176a-1477-4664-a2a8-19aac5e9756b',
+  keyword: 'key_2538b160-d1ad-4d49-a889-d801e3c0ed1f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd27d35b3c06bcd3e54796fe051b53597'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593963287932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03B14EAA4BF72A443D7',
+    participant: undefined
+  },
+  messageTimestamp: 1707378353,
+  pushName: 'Ángela',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'menu',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '593963287932'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ae13e8b0-51c4-4ca7-ab7f-56970245c880',
+  keyword: 'key_0b9309ef-1297-448a-9bec-642f182a19d4',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3fb1766de5e25714553fcfc5d8aca899'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593963287932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03B1F3DA61AB56A6062',
+    participant: undefined
+  },
+  messageTimestamp: 1707378372,
+  pushName: 'Ángela',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'ingredientes',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ingredientes',
+  from: '593963287932'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_57c39599-1f04-4636-9d68-6fdfec10dd04',
+  keyword: 'key_bfc219c4-41c1-4040-8696-96fb8299a3d5',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ba3e4165dc2e6e86fa9124a93f9b8c94'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593963287932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01DD883C5F8E72CFE6F',
+    participant: undefined
+  },
+  messageTimestamp: 1707378407,
+  pushName: 'Ángela',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'ingredientes del encebollado',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ingredientes del encebollado',
+  from: '593963287932'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_57c39599-1f04-4636-9d68-6fdfec10dd04',
+  keyword: 'key_bfc219c4-41c1-4040-8696-96fb8299a3d5',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ba3e4165dc2e6e86fa9124a93f9b8c94'
+}
