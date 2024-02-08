@@ -1,7 +1,7 @@
 # Chatbot-implementado-con-ChatGPT
 Este repositorio contiene un prototipo de chatbot implementado con la inteligencia artificial ChatGPT, con el contexto de restaurantes de guayaquil. 
 
-##Como fue su Instalacion:
+## Como fue su Instalacion:
 Este prototipo fue creado gracias a [ChatBot](https://bot-whatsapp.netlify.app/) de [Leifer Mendez](https://github.com/codigoencasa/bot-whatsapp)
 En el se podra observar la instalacion y documentacion para el correcto uso de su bot.
 ![ChatBot](https://github.com/Douglas-CO/Chatbot-implementado-con-ChatGPT/assets/84036785/36a511be-640a-4e04-ad52-2a7f76559916)
@@ -29,7 +29,7 @@ En el se podra observar la instalacion y documentacion para el correcto uso de s
 - const MYSQL_DB_NAME = "tesis";
 - const MYSQL_DB_PORT = "3307";
 
-##USAR
-1.- Descargar
-2.- npm install
-3.- Remplazar los datos
+## USAR
+1. Descargar
+2. npm install
+3. Remplazar los datos
